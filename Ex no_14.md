@@ -15,8 +15,8 @@ To write a C program to delete first element in an array.
 ```
 /*
 Program to delete first element in an array.
-Developed by: SARATH KUMAR.K
-RegisterNumber: 212222063014
+Developed by: Yuvaraju T.S
+RegisterNumber: 212222063018
 */
 #include<stdio.h> 
 int main()
